@@ -33,7 +33,7 @@ First you need to register to the site to get the key.
 You can do it [here](https://www.poet.hu/regisztracio.php).
 After you succesfully registered you can get your key [here](https://poet.hu/api.php)
 
-![image]()
+![image](https://github.com/BXn4/poethu/assets/78733248/f03b1f70-fe25-4f42-9fe0-76780b305ad6)
 
 ### Usage:
 Note: the synonyms and poems returns as a list If you want more than 1 synonyms or poems.
